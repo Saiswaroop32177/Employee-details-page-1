@@ -1,0 +1,28 @@
+
+body {
+  font-family: Arial;
+  background: #f0f4f8;
+  text-align: center;
+  padding: 40px;
+}
+
+h1 {
+  color: #2563eb;
+}
+
+h3 {
+  background: white;
+  padding: 15px;
+  margin: 15px auto;
+  width: 250px;
+  border-radius: 8px;
+}
+
+a {
+  color: #2563eb;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+}
